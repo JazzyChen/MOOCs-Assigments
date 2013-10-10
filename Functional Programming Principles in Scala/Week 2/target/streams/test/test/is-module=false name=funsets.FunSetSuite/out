@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- string take[0m[0m
+[0m[[0minfo[0m] [0m[33m- adding ints !!! IGNORED !!![0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements[0m[0m
+[0m[[0minfo[0m] [0m[32m- exist test[0m[0m
+[0m[[0minfo[0m] [0m[32m  + All 'exist' tests passed when is used a bound of 1000. [0m[0m
+[0m[[0minfo[0m] [0m[32m- forall test[0m[0m
+[0m[[0minfo[0m] [0m[32m  + All 'forall' tests passed when is used a bound of 1000. [0m[0m
+[0m[[0minfo[0m] [0m[32m- map test[0m[0m
+[0m[[0minfo[0m] [0m[32m  + All 'forall' tests passed when is used a bound of 1000. [0m[0m

@@ -1,0 +1,24 @@
+ Homework 1: Instructions
+
+
+The assignment description is contained in this pdf file.
+
+A small number of example tests are contained in this sml file.
+
+There are multiple programming problems, but you will submit them all together, so the assignment has one "part."
+
+As described in the Course Logistics / Policies, at most your first two non-zero submissions will count toward your grade, but you can continue to submit after that to receive automatic feedback. Be careful not to submit to the auto-grader until you are ready and also be careful to wait for the feedback and use it before submitting a second time.
+
+Remember you need to submit your assignment twice, for auto-grading and for peer assessment:
+
+    For auto-grading, follow these instructions to submit your assignment:
+        Go to the assignments list.
+        Go to this assignment and click the Submit button. Do not use the Web Submission button at the top of the page.
+        Upload the file with your solutions in the Output Submission field (the top one). Yes, this is a confusing name for this field.
+        Upload the file with your tests in the Additional Submission field (the bottom one).
+    For peer assessment, follow these instructions to submit your assignment:
+        Go to the peer assessment interface and click the "Go to assignment" button for this assignment.
+        Click the "Attach a file" button below to upload your solutions file (just your solutions file, not your testing file). This should, somewhat strangely, put the name of your file in the text box above the "Attach a file" button. This is correct behavior. Do not paste file contents into the text box as this is unlikely to preserve indentation well.
+        Submit (or Re-submit) your assignment by clicking the big submit (or re-submit) button (after checking the Honor Code box).
+        You should see, "Your work was submitted. Review your work to make sure everything looks OK." Click on, "review your work."
+        You should see a box with the name of your file. Now you can click on this file name to get your solutions. They should appear formatted and indented exactly like the file you uploaded. Depending on your browser, you may need to save the file and view it in a separate editor.
