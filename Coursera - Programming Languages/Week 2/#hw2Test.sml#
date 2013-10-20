@@ -1,0 +1,6 @@
+use "hw2provided.sml";
+
+val t1 = all_except_option("oi",[]) == NONE
+val t2 = all_except_option("",["oi","tes"]) == NONE
+val t3 = all_except_option("oi",["sads","oi","dsadw"]) == SOME ["sads","dsadw]
+val t4 = all_except_option("oi",["sads","sdawd"]) == NONE
