@@ -57,7 +57,7 @@ namespace GameProject
 
             // load content for the tile and create draw rectangle
             LoadContent(contentManager, number);
-            drawRectangle = new Rectangle((int)(center.X - sideLength / 2),
+            drawRectangle = new Rectangle((int)center.X - sideLength / 2,
                  (int)center.Y - sideLength / 2, sideLength, sideLength);
 
             // set isCorrectNumber flag
@@ -89,7 +89,7 @@ namespace GameProject
         {
             // draw the tile
             spriteBatch.Begin();
-            spriteBatch.Draw(texture, drawRectangle, sourceRectangle, Color.White);
+            spriteBatch.Draw(texture, drawRectangle, Color.Yellow);
             spriteBatch.End();
         }
 

@@ -47,10 +47,10 @@ namespace GameProject
         {
             // load content for the board and create draw rectangle
             LoadContent(contentManager);
-            drawRectangle = new Rectangle((int)(center.X - sideLength/2), (int)(center.Y - sideLength/2), boardTexture.Width, boardTexture.Height);
+            drawRectangle = new Rectangle((int)center.X, (int)center.Y, boardTexture.Width, boardTexture.Height);
 
             // calculate side length for number tiles
-            tileSideLength = (sideLength - (BORDER_SIZE*(NUM_ROWS+1))) /NUM_ROWS;
+            tileSideLength = (sideLength - (4*BORDER_SIZE))/3;
 
             int n = 0;
             // initialize array of number tiles
